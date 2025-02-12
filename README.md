@@ -57,3 +57,7 @@ Push to your fork (git push origin feature-branch).
 Submit a Pull Request!
 📜 License
 This project is licensed under the MIT License.
+
+Screenshots:
+![image](https://github.com/user-attachments/assets/6afa579b-667d-4676-84e8-f9814601603d)
+
