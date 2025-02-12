@@ -24,7 +24,7 @@ Shortify is a powerful **URL shortening** service that allows users to **create 
 | **Axios** | API communication |  
 
 ## 📂 Project Structure  
-quicklinker/ │── backend/ # Spring Boot backend │ ├── src/main/java/ # Java source code │ ├── src/main/resources/ # Config files │ ├── pom.xml # Maven dependencies │── frontend/ # ReactJS frontend │ ├── src/ # React source code │ ├── package.json # React dependencies │── README.md # Project documentation
+Shortify/ │── backend/ # Spring Boot backend │ ├── src/main/java/ # Java source code │ ├── src/main/resources/ # Config files │ ├── pom.xml # Maven dependencies │── frontend/ # ReactJS frontend │ ├── src/ # React source code │ ├── package.json # React dependencies │── README.md # Project documentation
 
 🚀 API Endpoints
 Method	Endpoint	Description	Auth Required
