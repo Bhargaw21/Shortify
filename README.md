@@ -1,8 +1,8 @@
-# QuickLinker 🚀  
+# Shortify 🚀  
 **A Smart URL Shortener with Advanced Analytics**  
 
 ## 📌 Overview  
-QuickLinker is a powerful **URL shortening** service that allows users to **create short links** and **track analytics** in real time. It provides detailed insights into link usage, including the number of clicks and individual user interactions. The platform also features **user authentication** with login and signup functionality for a personalized experience.  
+Shortify is a powerful **URL shortening** service that allows users to **create short links** and **track analytics** in real time. It provides detailed insights into link usage, including the number of clicks and individual user interactions. The platform also features **user authentication** with login and signup functionality for a personalized experience.  
 
 ## 🔥 Features  
 ✅ **Shorten Links** – Instantly generate short URLs.  
@@ -35,7 +35,7 @@ GET	/api/links/{id}	Get analytics for a link	✅
 GET	/api/links/click/{shortUrl}	Redirect & track clicks	❌
 
 📊 Analytics & Tracking
-QuickLinker records every link click along with:
+Shortify records every link click along with:
 
 Total clicks
 Unique users
