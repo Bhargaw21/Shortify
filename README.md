@@ -1,6 +1,9 @@
 # Shortify 🚀  
 **A Smart URL Shortener with Advanced Analytics**  
 
+Check out my [website](https://shortify-frontend-mu.vercel.app/)
+
+
 ## 📌 Overview  
 Shortify is a powerful **URL shortening** service that allows users to **create short links** and **track analytics** in real time. It provides detailed insights into link usage, including the number of clicks and individual user interactions. The platform also features **user authentication** with login and signup functionality for a personalized experience.  
 
